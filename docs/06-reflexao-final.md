@@ -1,46 +1,24 @@
 # Reflexão final
 
-
-
 Durante a construção deste guia, foi utilizado um fluxo de trabalho baseado em branches, commits e Pull Requests.
 
-
-
-A utilização de uma branch separada permitiu organizar as alterações sem modificar diretamente a versão principal do projeto.
-
-
+A utilização de branches separadas permitiu organizar alterações diferentes antes da integração.
 
 O uso de commits ajudou a registrar as etapas do desenvolvimento e manter um histórico das alterações realizadas.
 
+O conflito controlado no `README.md` mostrou como o GitHub identifica alterações incompatíveis. As duas alterações foram analisadas e combinadas antes da integração.
 
-
-O conflito controlado também permitiu observar como o Git identifica alterações incompatíveis e como elas podem ser analisadas e resolvidas.
-
-
-
-Por fim, o Pull Request permite revisar as alterações antes de integrá-las à branch principal.
-
-
+O Pull Request permitiu registrar a revisão e a resolução do conflito antes da integração das alterações.
 
 ## Fluxo utilizado
 
-
-
 O fluxo adotado neste projeto foi:
 
-
-
-1\. Criar uma branch para desenvolver o guia.
-
-2\. Adicionar e organizar o conteúdo em Markdown.
-
-3\. Registrar as alterações em commits.
-
-4\. Criar um conflito controlado.
-
-5\. Resolver o conflito.
-
-6\. Abrir um Pull Request.
-
-7\. Revisar e integrar as alterações na `main`.
-
+1. Criar a branch `docs/estrutura-guia` para desenvolver o guia.
+2. Adicionar e organizar o conteúdo em Markdown.
+3. Criar a branch `feature/conflito-readme`.
+4. Fazer alterações diferentes na mesma linha do `README.md`.
+5. Abrir o Pull Request e identificar o conflito.
+6. Resolver o conflito manualmente.
+7. Integrar as alterações na branch `docs/estrutura-guia`.
+8. Revisar e publicar a versão final na `main`.
