@@ -1,8 +1,8 @@
-\# Merge
+# Merge
 
 
 
-\## O que é merge?
+## O que é merge?
 
 
 
@@ -14,7 +14,7 @@ Por exemplo, depois de terminar uma alteração em uma branch de documentação,
 
 
 
-\## Exemplo
+## Exemplo
 
 
 
@@ -22,9 +22,9 @@ Suponha que existam duas branches:
 
 
 
-\- `main`
+- `main`
 
-\- `docs/estrutura-guia`
+- `docs/estrutura-guia`
 
 
 
