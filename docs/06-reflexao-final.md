@@ -1,4 +1,4 @@
-\# Reflexão final
+# Reflexão final
 
 
 
@@ -22,7 +22,7 @@ Por fim, o Pull Request permite revisar as alterações antes de integrá-las à
 
 
 
-\## Fluxo utilizado
+## Fluxo utilizado
 
 
 
