@@ -1,6 +1,6 @@
 # Guia Git e GitHub
 
-Guia de aprendizado interativo sobre Git e GitHub para iniciantes na área de tecnologia.
+Guia de aprendizado interativo sobre Git e GitHub para estudantes e iniciantes em tecnologia.
 
 ## Sobre o guia
 
