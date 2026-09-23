@@ -1,8 +1,8 @@
-\# Pull Request
+# Pull Request
 
 
 
-\## O que é um Pull Request?
+## O que é um Pull Request?
 
 
 
@@ -14,7 +14,7 @@ No GitHub, um Pull Request permite apresentar as alterações realizadas, revisa
 
 
 
-\## Fluxo básico
+## Fluxo básico
 
 
 
@@ -38,7 +38,7 @@ Um fluxo comum para utilizar um Pull Request é:
 
 
 
-\## Exemplo
+## Exemplo
 
 
 
