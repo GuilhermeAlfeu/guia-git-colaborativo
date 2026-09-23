@@ -1,8 +1,8 @@
-\# Branches
+# Branches
 
 
 
-\## O que é uma branch?
+## O que é uma branch?
 
 
 
@@ -18,7 +18,7 @@ A branch `main` normalmente representa uma versão estável do projeto.
 
 
 
-\## Criando uma branch
+## Criando uma branch
 
 
 
