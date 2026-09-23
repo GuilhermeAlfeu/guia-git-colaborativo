@@ -1,8 +1,8 @@
-\# Conflitos
+# Conflitos
 
 
 
-\## O que é um conflito?
+## O que é um conflito?
 
 
 
@@ -14,7 +14,7 @@ Isso pode acontecer quando duas branches modificam a mesma linha ou trecho de um
 
 
 
-\## Como resolver um conflito?
+## Como resolver um conflito?
 
 
 
@@ -36,7 +36,7 @@ Quando ocorre um conflito, é necessário:
 
 
 
-\## Exemplo de conflito
+## Exemplo de conflito
 
 
 
@@ -68,7 +68,7 @@ Essa experiência demonstrou como o Git sinaliza alterações incompatíveis e c
 
 
 
-\## Exercício
+## Exercício
 
 
 
